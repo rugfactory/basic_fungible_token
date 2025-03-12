@@ -1,4 +1,4 @@
-# basic fungible_token
+# basic_fungible_token
 
 a basic fungible token
 
