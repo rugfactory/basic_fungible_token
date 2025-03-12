@@ -1,10 +1,7 @@
-# fungible_token
+# basic fungible_token
 
-a fungible token for rugfactory with a few extra methods
+a basic fungible token for rugfactory
 
-rugfactory extra methods
-- rugfactory_token_delete
-- rugfactory_owner_check
 
 ---
 
