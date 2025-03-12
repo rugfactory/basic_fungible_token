@@ -1,6 +1,6 @@
 # basic fungible_token
 
-a basic fungible token for rugfactory
+a basic fungible token
 
 
 ---
