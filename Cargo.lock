@@ -152,6 +152,18 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "8c3c1a368f70d6cf7302d78f8f7093da241fb8e8807c05cc9e51a125895a6d5b"
 
 [[package]]
+name = "basic_fungible_token"
+version = "0.1.0"
+dependencies = [
+ "borsh",
+ "near-contract-standards",
+ "near-sdk",
+ "near-workspaces",
+ "serde_json",
+ "tokio",
+]
+
+[[package]]
 name = "binary-install"
 version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1040,18 +1052,6 @@ checksum = "9564fc758e15025b46aa6643b1b77d047d1a56a1aea6e01002ac0c7026876213"
 dependencies = [
  "libc",
  "winapi",
-]
-
-[[package]]
-name = "fungible_token"
-version = "0.1.0"
-dependencies = [
- "borsh",
- "near-contract-standards",
- "near-sdk",
- "near-workspaces",
- "serde_json",
- "tokio",
 ]
 
 [[package]]

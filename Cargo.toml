@@ -1,9 +1,9 @@
 [package]
-name = "fungible_token"
-description = "a fungible token for rugfactory with a few extra methods"
+name = "basic_fungible_token"
+description = "a basic fungible token"
 version = "0.1.0"
 edition = "2021"
-repository = "https://github.com/rugfactory/fungible_token"
+repository = "https://github.com/rugfactory/basic_fungible_token"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
